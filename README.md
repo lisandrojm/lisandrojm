@@ -5,11 +5,9 @@
 </p>
 <br>
 
-## <b> Github Stats </b>
-<br>
-
 ## <b> Skills </b>
 <br>
+
 <p align="center">
    
 - **Front-End Development**:
