@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## <b> Let's Connect..!</b>
+## <b> Skill</b>
 <br>
 
 <p align="center">
