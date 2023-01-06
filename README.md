@@ -6,9 +6,6 @@
 
 ## <b> Let's Connect..!</b>
 <br>
-<br>
-## <b> Skills </b>
-<br>
 
 <p align="center">
    
