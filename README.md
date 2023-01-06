@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## <b> Skill</b>
+## <b> Skills</b>
 <br>
 
 <p align="center">
