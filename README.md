@@ -16,23 +16,7 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
-## <b> Certificates</b>
-<br>
-<div align='left'>
 
-<ul>
-
-<li>
-<a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-Web%20Development-blue?style=for-the-badge"/>
-</li>
-	
-<li>	
-</a>
-<a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-Javascript-yellow?style=for-the-badge"/>
-</a>
-</li>
 
 <br>
 - **Cloud Hosting**:
@@ -63,7 +47,23 @@
 <img src="https://img.shields.io/badge/linkedin:  lisandrojm-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
+## <b> Certificates</b>
+<br>
+<div align='left'>
 
+<ul>
+
+<li>
+<a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" alt=coderhouse target="_blank">
+<img src="https://img.shields.io/badge/CODERHOUSE-Web%20Development-blue?style=for-the-badge"/>
+</li>
+	
+<li>	
+</a>
+<a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" alt=coderhouse target="_blank">
+<img src="https://img.shields.io/badge/CODERHOUSE-Javascript-yellow?style=for-the-badge"/>
+</a>
+</li>
 
 </ul>
 </div>
