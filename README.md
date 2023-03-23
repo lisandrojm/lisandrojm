@@ -34,7 +34,7 @@
 
 </div>
 
-## <b> Let's Connect..!</b>
+## <b> Certificates</b>
 <br>
 <div align='left'>
 
@@ -59,7 +59,10 @@
 
 <li>
 <a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/coderhouse-web%20develpment-blue"/>
+</a>
+<a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-yellow"/>
 </a>
 </li>
 
