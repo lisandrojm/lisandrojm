@@ -58,13 +58,13 @@
 <ul>
 
 <li>
-<a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" target="_blank">
+<a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" alt=coderhouse target="_blank">
 <img src="https://img.shields.io/badge/CODERHOUSE-Web%20Develpment-blue?style=for-the-badge"/>
 </li>
 	
 <li>	
 </a>
-<a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" target="_blank">
+<a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" alt=coderhouse target="_blank">
 <img src="https://img.shields.io/badge/CODERHOUSE-Javascript-yellow?style=for-the-badge"/>
 </a>
 </li>
