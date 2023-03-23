@@ -17,8 +17,6 @@
 
 <br>
 
-
-<br>
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -47,6 +45,12 @@
 <img src="https://img.shields.io/badge/linkedin:  lisandrojm-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
+
+<br>
+	
+</ul>
+</div>
+
 ## <b> Certificates</b>
 <br>
 <div align='left'>
@@ -65,6 +69,7 @@
 </a>
 </li>
 
+<br>
+	
 </ul>
 </div>
-
