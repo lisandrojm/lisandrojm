@@ -32,21 +32,6 @@
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 <br>
 
-## <b> Let's Connect..!</b>
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-Web%20Development-blue" alt=coderhouse style="margin-bottom: 5px/>
-</a>
-</li>
-
-<br>
-	
-</ul>
 </div>
 
 ## <b> Let's Connect..!</b>
@@ -65,3 +50,4 @@
 	
 </ul>
 </div>
+
