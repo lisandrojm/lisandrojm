@@ -59,7 +59,7 @@
 
 <li>
 <a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-Web%20Develpment-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CODERHOUSE-Web%20Development-blue?style=for-the-badge"/>
 </li>
 	
 <li>	
