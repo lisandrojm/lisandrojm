@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/coderhouse-web%20develpment-blue"/>
 </a>
 <a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" target="_blank">
-<img src="https://img.shields.io/badge/coderhouse-web%20dJavaScript-yellow"/>
+<img src="https://img.shields.io/badge/coderhouse%20JavaScript-yellow"/>
 </a>
 </li>
 
