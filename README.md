@@ -59,7 +59,7 @@
 
 <li>
 <a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" target="_blank">
-<img src="https://img.shields.io/badge/-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "/>
+<img src="https://img.shields.io/badge/CODERHOUSE-Web%20Develpment-bluee"/>
 </a>
 <a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" target="_blank">
 <img src="https://img.shields.io/badge/CODERHOUSE-JavaScript-yellow"/>
