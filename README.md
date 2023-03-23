@@ -59,7 +59,7 @@
 
 <li>
 <a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" target="_blank">
-<img src="https://img.shields.io/badge/coderhouse-web%20develpment-blue?style=for-the-badge&logo=appveyor"/>
+<img src="https://img.shields.io/badge/coderhouse-web%20develpment-blue"/>
 </a>
 </li>
 
