@@ -1,4 +1,4 @@
-<h1 align="center"><b>Front End Developer</b></h1>
+<h1 align="left"><b>Front End Developer</b></h1>
 <br>
 
 ## <b> Skills</b>
