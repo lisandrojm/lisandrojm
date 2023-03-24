@@ -1,5 +1,6 @@
-## <h1>Front End Developer</h1>
-<b> Skills</b>
+<h1>Front End Developer</h1>
+
+## <b> Skills</b>
 <br>
 
 <p align="center">
