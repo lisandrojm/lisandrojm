@@ -60,7 +60,7 @@
 <li>	
 </a>
 <a href="https://www.coderhouse.com/certificados/645e44ad1f40130002fcd5d5" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-React%20-%2323272f.svg?style=for-the-badge&logo=react&logoColor=%23149eca"/>
+ <img src="https://img.shields.io/badge/CODERHOUSE-React%20-%2323272f.svg?style=for-the-badge&logo=react&logoColor=%23149eca" alt="React Logo">
 </a>
 </li>
 <br>
