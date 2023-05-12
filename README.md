@@ -9,7 +9,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-FCC624.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React%20-%2323272f.svg?style=for-the-badge&logo=react&logoColor=%23149eca)
 
 <br>
@@ -46,7 +46,7 @@
 <li>	
 </a>
 <a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-Javascript-%23F7DF1E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CODERHOUSE-Javascript-FCC624?style=for-the-badge"/>
 </a>
 </li>
 
