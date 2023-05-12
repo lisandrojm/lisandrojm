@@ -50,6 +50,12 @@
 </a>
 </li>
 
+<li>
+  <a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CODERHOUSE-Javascript-FCC624?style=for-the-badge" alt="CODERHOUSE Javascript" />
+  </a>
+  JavaScript
+</li>
 <li>	
 </a>
 <a href="https://www.coderhouse.com/certificados/645e44ad1f40130002fcd5d5" alt=coderhouse target="_blank">
