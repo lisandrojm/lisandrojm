@@ -50,6 +50,13 @@
 </a>
 </li>
 
+<li>	
+</a>
+<a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" alt=coderhouse target="_blank">
+<img src="https://img.shields.io/badge/CODERHOUSE-React-turquoise?style=for-the-badge"/>
+</a>
+</li>
+
 <br>
 	
 </ul>
