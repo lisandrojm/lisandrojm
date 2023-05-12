@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/CODERHOUSE-React-%23149eca?style=for-the-badge"/>
 </a>
 </li>
-
+</div>
 ## <b> Let's Connect..!</b>
 <br>
 <div align='left'>
