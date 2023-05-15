@@ -14,6 +14,7 @@
 
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-FCC624.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/React%20-%2323272f.svg?style=for-the-badge&logo=react&logoColor=%23149eca)
+	
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
    ![Illustrator](https://img.shields.io/badge/Illustrator%20-FCC624.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
