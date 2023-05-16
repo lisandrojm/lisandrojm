@@ -1,5 +1,5 @@
-👋 Hello! I'm Lisandro
-
+<h2>👋 Hello! I'm Lisandro<h2>
+<br>
 <h1>Front-End Developer</h1>
 
 ## <b> Skills</b>
