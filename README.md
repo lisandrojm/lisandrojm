@@ -18,7 +18,7 @@
    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
    ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
    ![Illustrator](https://img.shields.io/badge/illustrator%20-FCC624.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
-   ![After Effects](https://img.shields.io/badge/after%20effects%20-9999FF.svg?style=for-the badge&logo=adobe%20after%20effects&logoColor=white))
+   ![After Effects](https://img.shields.io/badge/after%20effects%20-9999FF.svg?style=for-the badge&logo=adobe%20after%20effects&logoColor=white)
 <br>
 
 - **Cloud Hosting**:
