@@ -19,6 +19,7 @@
    ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
    ![Illustrator](https://img.shields.io/badge/illustrator-FCC624.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
    ![After Effects](https://img.shields.io/badge/after%20effects-9999FF.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)	
+   ![Premiere](https://img.shields.io/badge/premiere-9999FF.svg?style=for-the-badge&logo=adobe%20premiere&logoColor=white)	
 <br>
 
 - **Cloud Hosting**:
