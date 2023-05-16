@@ -1,4 +1,4 @@
-<h2>👋 Hello! I'm Lisandro<h2>
+👋 Hello! I'm Lisandro
 
 <h1>Front-End Developer</h1>
 
