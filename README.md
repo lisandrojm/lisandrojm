@@ -1,7 +1,9 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=All+Killer,+No+Filler."></a>
-</p>
 <h1>Front-End Developer</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%23FFFFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=All+Killer,+No+Filler.">
+  </a>
+</p>
 ## <b> Skills</b>
 <br>
 
