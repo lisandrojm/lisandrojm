@@ -1,9 +1,9 @@
 <h1>Front-End Developer</h1>
-<div align="left">
+<p align="left">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%232f81f7&size=18&center=false&vCenter=true&width=600&height=100&lines=All+Killer,+No+Filler.&speed=50">
   </a>
-</div>
+</p>
 ## <b> Skills</b>
 <br>
 
