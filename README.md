@@ -46,7 +46,7 @@
 </div>
 
 ## <b> Certificates</b>
-<br>
+
 <div align='left'>
 
 <ul>
@@ -72,7 +72,7 @@
 </div>
 
 ## <b> Let's Connect..!</b>
-<br>
+
 <div align='left'>
 
 <ul>
