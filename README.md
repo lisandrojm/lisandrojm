@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1>Front-End Developer</h1>
-## <b> Skills</b>
+## <b> Certificates</b>
 <br>
 
 <p align="center">
