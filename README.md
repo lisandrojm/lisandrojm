@@ -4,7 +4,11 @@
   </a>
 </p>
 <h1>Front-End Developer</h1>
+</div>
 
+## <b> Skills</b>
+<br>
+<div align='left'>
 <br>
 
 <p align="center">
