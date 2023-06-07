@@ -4,7 +4,19 @@
   </a>
 </p>
 <h1>Front-End Developer</h1>
-## <b> Certificates</b>
+## <b> Let's Connect..!</b>
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/lisandrojm" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  lisandrojm-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
 <br>
 
 <p align="center">
