@@ -5,7 +5,9 @@
 </p>
 <h1>Front-End Developer</h1>
 </div>
-## <b> Skills</b>
+
+## <b> Certificates</b>
+<br>
 <div align='left'>
 
 <p align="center">
