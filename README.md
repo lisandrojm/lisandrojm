@@ -6,8 +6,8 @@
 <h1>Front-End Developer</h1>
 </div>
 
-## <b> Certificates</b>
-<br>
+## <b> Skills</b>
+
 <div align='left'>
 
 <p align="center">
