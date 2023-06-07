@@ -9,7 +9,6 @@
 ## <b> Skills</b>
 <br>
 <div align='left'>
-<br>
 
 <p align="center">
    
