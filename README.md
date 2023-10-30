@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%232f81f7&size=18&center=true&vCenter=true&width=600&height=100&lines=All+Killer,+No+Filler.&speed=50">
   </a>
 </p>
-<h1>Front-End Developer</h1>
+<h1>Front-End Developer => Road to full stack</h1>
 </div>
 
 ## <b> Skills</b>
