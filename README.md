@@ -4,7 +4,6 @@
   </a>
 </p>
 <h1>Front-End Developer</h1>
-<h3>Road to Full Stack...</h3>
 </div>
 
 ## <b> Skills</b>
