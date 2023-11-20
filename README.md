@@ -33,6 +33,7 @@
 - **Cloud Hosting**:
 	
     ![Vercel](https://img.shields.io/badge/Vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)
+    ![Railway]( https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%2323272f.svg?style=for-the-badge&logo=github&logoColor=white)
     
 <br>
