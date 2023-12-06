@@ -3,92 +3,63 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%232f81f7&size=18&center=true&vCenter=true&width=600&height=100&lines=All+Killer,+No+Filler.&speed=50">
   </a>
 </p>
-<h1>Front-End Developer</h1>
-<h3>Road to Full Stack...</h3>
-</div>
+
+# Hi 👋 My name is Lisandro
+
+## Front End Developer
+
+<!-- - 🖥️  See my portfolio at [lisandrojm.com](http://lisandrojm.com) -->
+
+- 🌍  I'm based in Argentina
+- ✉️  You can contact me at [lisandrojm@gmail.com](mailto:lisandrojm@gmail.com)
+- 🧠  I'm learning Back End to be Full Stack
+- 💪  I love the challenges
 
 ## <b> Skills</b>
 
 <div align='left'>
 
 <p align="center">
-   
-- **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-FCC624.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/React%20-%2323272f.svg?style=for-the-badge&logo=react&logoColor=%23149eca)
-	
-   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-   ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-   ![Illustrator](https://img.shields.io/badge/illustrator-FCC624.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=black)
-   ![After Effects](https://img.shields.io/badge/After%20Effects-%23563D7C.svg?style=for-the-badge&logo=adobe%20after%20effects&logoColor=black)
-   ![Premiere](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=black)
-<br>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 
-- **Cloud Hosting**:
-	
-    ![Vercel](https://img.shields.io/badge/Vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%2323272f.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Railway]( https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white)
-    
-<br>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
-- **Softwares and Tools**:
-	
-    ![Nvim](https://shields.io/badge/neovim-white?&style=for-the-badge&logo=neovim)
-    ![Vscode](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%2323272f?style=for-the-badge&logo=github&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-<br>
-	
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+
 </div>
 
-## <b> Certificates</b>
+## <b> Socials</b>
 
-<div align='left'>
+<a href="https://www.github.com/lisandrojm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></a> <a href="https://www.linkedin.com/in/lisandrojm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
-<ul>
+<!-- ## Certificates
 
-<li>
 <a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-Web%20Development-blueviolet?style=for-the-badge"/>
-</li>
-	
-<li>	
+<img src="https://img.shields.io/badge/Coderhouse-Web_Developlment-purple"/>
 </a>
+
 <a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-Javascript-FCC624?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coderhouse-JavascCript-yellow"/>
 </a>
-</li>
 
-<li>	
-</a>
 <a href="https://www.coderhouse.com/certificados/645e44ad1f40130002fcd5d5" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/CODERHOUSE-React-%2300ccf1?style=for-the-badge"/>
-</a>
-</li>
-</div>
-
-## <b> Let's Connect..!</b>
-
-<div align='left'>
-
-<ul>
-
-<li>
-<a href="https://www.linkedin.com/in/lisandrojm" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  lisandrojm-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-	
-</ul>
-</div>
-
+<img src="https://img.shields.io/badge/Coderhouse-React-blue"/>
+</a> -->
