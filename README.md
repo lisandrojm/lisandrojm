@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%232f81f7&size=18&center=true&vCenter=true&width=600&height=80&lines=All+Killer,+No+Filler.&speed=50">
+  </a>
+</p>
+
 # Hi 👋 My name is Lisandro
 
 ## Front End Developer
@@ -57,8 +63,3 @@
 <a href="https://www.coderhouse.com/certificados/645e44ad1f40130002fcd5d5" alt=coderhouse target="_blank">
 <img src="https://img.shields.io/badge/Coderhouse-React-blue"/>
 </a> -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%232f81f7&size=18&center=true&vCenter=true&width=600&height=100&lines=All+Killer,+No+Filler.&speed=50">
-  </a>
-</p>
