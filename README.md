@@ -1,14 +1,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%232f81f7&size=18&center=true&vCenter=true&width=600&height=80&lines=All+Killer,+No+Filler.&speed=50">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%232f81f7&size=18&center=true&vCenter=true&width=600&height=100&lines=All+Killer,+No+Filler.&speed=50">
   </a>
 </p>
 
-# Hi 👋 I'm Lisandro
+# Hi 👋 My name is Lisandro
 
 ## Front End Developer
-
-<!-- - 🖥️  See my portfolio at [lisandrojm.com](http://lisandrojm.com) -->
 
 - 🌍  I'm based in Argentina
 - ✉️  You can contact me at [lisandrojm@gmail.com](mailto:lisandrojm@gmail.com)
@@ -38,6 +36,9 @@
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="36" height="36" alt="Vercel" /></a>
+<a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-light.svg" width="36" height="36" alt="Railway" /></a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
@@ -49,17 +50,3 @@
 ## <b> Socials</b>
 
 <a href="https://www.github.com/lisandrojm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></a> <a href="https://www.linkedin.com/in/lisandrojm" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-<!-- ## Certificates
-
-<a href="https://www.coderhouse.com/certificados/63a7335bc5708d000e6df156" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/Coderhouse-Web_Developlment-purple"/>
-</a>
-
-<a href="https://www.coderhouse.com/certificados/641b0618e72c2b00027dca87" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/Coderhouse-JavascCript-yellow"/>
-</a>
-
-<a href="https://www.coderhouse.com/certificados/645e44ad1f40130002fcd5d5" alt=coderhouse target="_blank">
-<img src="https://img.shields.io/badge/Coderhouse-React-blue"/>
-</a> -->
