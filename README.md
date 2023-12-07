@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# Hi 👋 My name is Lisandro
+# Hi 👋 I'm Lisandro
 
 ## Front End Developer
 
