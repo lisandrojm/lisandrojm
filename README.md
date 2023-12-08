@@ -36,7 +36,7 @@
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYa7OX0WtNmU0qYNrmxuYMFaCPUmhjsJfy6gzaubBCOtNzI7m6DZG-&usqp=CAE&s" width="36" height="36" alt="Vercel" /></a>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/327408/logo-vercel.svg" width="36" height="36" alt="Vercel" /></a>
 <a href="https://railway.app/" target="_blank" rel="noreferrer"><img src="https://railway.app/brand/logo-light.svg" width="36" height="36" alt="Railway" /></a>
 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
