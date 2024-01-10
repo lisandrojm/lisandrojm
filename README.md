@@ -9,7 +9,7 @@
 ## Front End Developer
 
 - 🌍  I'm based in Argentina
-- ⚡  My portfolio → <a href="https://lisandrojm.vercel.app/" target="_blank" rel="noreferrer">lisandrojm.vercel.app</a>
+- :octocat:  My portfolio → <a href="https://lisandrojm.vercel.app/" target="_blank" rel="noreferrer">lisandrojm.vercel.app</a>
 - ✉️  You can contact me at [lisandrojm@gmail.com](mailto:lisandrojm@gmail.com)
 - 🧠  I'm learning Back End to be Full Stack
 - 💪  I love the challenges
